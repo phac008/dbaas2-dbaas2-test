@@ -2,3 +2,8 @@ cloudnative-pg:
   replicaCount: 2
   monitoring:
     podMonitorEnabled: true
+webhook:
+  mutating:
+    create: false
+  validating:
+    create: false
