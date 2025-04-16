@@ -1,0 +1,8 @@
+site_name: "dbaas-test"
+site_description: "Documentation for dbaas-test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
